@@ -9,6 +9,7 @@ class SignInPage extends StatelessWidget {
       appBar: AppBar(
         title: const Text('Sign in'),
       ),
+      
       body: Padding(
         padding: const EdgeInsets.all(18.0),
         child: Column(
